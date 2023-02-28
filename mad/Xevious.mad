@@ -1,15 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
+
    <setname>xevious</setname>
-   <alternative>no</alternative>
    <name>Xevious</name>
-   <flip>yes</flip>
-   <resolution>15kHz</resolution>
-   <year>1982</year>
-   <category>Shooter - Vertical</category>
-   <manufacturer>Namco</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <players>2 (alternating)</players>
-   <move_inputs>joystick 8-way</move_inputs>
+	<parent_title>Xevious</parent_title>
+	<series>Xevious</series>
+	<alternative>no</alternative>
+	<region>Japan</region>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1997</year>
+	<manufacturer>Namco</manufacturer>
+	<category>Shooter - Vertical</category>
+
+	<rotation>vertical (ccw)</rotation>
+	<flip>yes</flip>
+	<resolution>15kHz</resolution>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+
 </misterarcadedescription>
