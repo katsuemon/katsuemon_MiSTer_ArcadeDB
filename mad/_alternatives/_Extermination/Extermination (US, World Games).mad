@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>extrmatnu</setname>
+   <alternative>yes</alternative>
+   <name>Extermination (US, World Games)</name>
+   <region>World</region>
+   <year>1987</year>
+   <manufacturer>Taito (World Games license)</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

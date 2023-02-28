@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>bublboblr</setname>
+   <alternative>yes</alternative>
+   <name>Bubble Bobble (US, Ver 5.1)</name>
+   <region>World</region>
+   <year>1986</year>
+   <manufacturer>Taito America Corporation (Romstar license)</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 2</move_inputs>
+</misterarcadedescription>

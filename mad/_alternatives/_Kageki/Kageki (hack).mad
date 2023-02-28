@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>kagekih</setname>
+   <alternative>yes</alternative>
+   <name>Kageki (hack)</name>
+   <region>World</region>
+   <year>1992</year>
+   <manufacturer>hack</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

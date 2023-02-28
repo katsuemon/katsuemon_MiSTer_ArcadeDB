@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>rockman2j</setname>
+   <alternative>yes</alternative>
+   <name>Rockman 2: The Power Fighters (Japan 960708)</name>
+   <region>World</region>
+   <year>1996</year>
+   <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

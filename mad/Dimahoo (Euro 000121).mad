@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>dimahoo</setname>
+   <alternative>no</alternative>
+   <name>Dimahoo (Euro 000121)</name>
+   <region>World</region>
+   <year>2000</year>
+   <manufacturer>Eighting / Raizing (Capcom license)</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>1944j</setname>
+   <alternative>yes</alternative>
+   <name>1944: The Loop Master (Japan 000620)</name>
+   <region>World</region>
+   <year>2000</year>
+   <manufacturer>Eighting / Raizing (Capcom license)</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>armwara</setname>
+   <alternative>yes</alternative>
+   <name>Armored Warriors (Asia 941024)</name>
+   <region>World</region>
+   <year>1994</year>
+   <manufacturer>Capcom</manufacturer>
+   <players>3</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

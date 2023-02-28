@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>bublbobl</setname>
+   <alternative>no</alternative>
+   <name>Bubble Bobble (Japan, Ver 0.1)</name>
+   <region>World</region>
+   <year>1986</year>
+   <manufacturer>Taito Corporation</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 2</move_inputs>
+</misterarcadedescription>

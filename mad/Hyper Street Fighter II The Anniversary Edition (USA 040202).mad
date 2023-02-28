@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>hsf2</setname>
+   <alternative>no</alternative>
+   <name>Hyper Street Fighter II: The Anniversary Edition (USA 040202)</name>
+   <region>World</region>
+   <year>2004</year>
+   <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

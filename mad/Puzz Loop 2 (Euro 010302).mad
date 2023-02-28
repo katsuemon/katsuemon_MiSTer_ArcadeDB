@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>pzloop2</setname>
+   <alternative>no</alternative>
+   <name>Puzz Loop 2 (Euro 010302)</name>
+   <region>World</region>
+   <year>2001</year>
+   <manufacturer>Mitchell (Capcom license)</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

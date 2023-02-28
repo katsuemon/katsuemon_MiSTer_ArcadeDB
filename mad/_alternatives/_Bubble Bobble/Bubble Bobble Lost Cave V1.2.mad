@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>bublcave</setname>
+   <alternative>yes</alternative>
+   <name>Bubble Bobble: Lost Cave V1.2</name>
+   <region>World</region>
+   <year>2013</year>
+   <manufacturer>hack (Bisboch and Aladar)</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 2</move_inputs>
+</misterarcadedescription>

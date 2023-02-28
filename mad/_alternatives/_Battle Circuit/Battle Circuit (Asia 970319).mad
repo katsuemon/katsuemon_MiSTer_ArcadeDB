@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>batcira</setname>
+   <alternative>yes</alternative>
+   <name>Battle Circuit (Asia 970319)</name>
+   <region>World</region>
+   <year>1997</year>
+   <manufacturer>Capcom</manufacturer>
+   <players>4</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

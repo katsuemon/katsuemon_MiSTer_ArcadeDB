@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>mvscb</setname>
+   <alternative>yes</alternative>
+   <name>Marvel Vs. Capcom: Clash of Super Heroes (Brazil 980123)</name>
+   <region>World</region>
+   <year>1998</year>
+   <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

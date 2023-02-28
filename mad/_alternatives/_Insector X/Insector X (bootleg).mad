@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>insectxbl</setname>
+   <alternative>yes</alternative>
+   <name>Insector X (bootleg)</name>
+   <region>World</region>
+   <year>1990</year>
+   <manufacturer>bootleg (Nagoya Kaihatsu)</manufacturer>
+   <bootleg>yes</bootleg>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>
