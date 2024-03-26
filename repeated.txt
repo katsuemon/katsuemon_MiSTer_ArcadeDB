@@ -1,0 +1,57 @@
+: mad/Computer Space.mad, mad/Pac-Manic Miner.mad
+19xxj: mad/_alternatives/_19XX The War Against Destiny/19XX The War Against Destiny (Japan 960104, Rental Version).mad, mad/_alternatives/_19XX The War Against Destiny/19XX The War Against Destiny (Japan 960104, yellow case).mad
+arkanoid: mad/Arkanoid (Unl. lives) [hb].mad, mad/Arkanoid (Unl. Lives, slower) [hb].mad, mad/_alternatives/_Arkanoid/Arkanoid (Unl. Lives, slower) HBMame.mad, mad/Arkanoid (US).mad, mad/Arkanoid (W).mad
+arkanoidj: mad/_alternatives/_Arkanoid/Arkanoid (JP).mad, mad/Arkanoid (JP).mad
+atetrisc: mad/_alternatives/_Tetris/Tetris (cocktail set 1).mad, mad/Tetris (Cocktail, Set 1).mad
+batrideru: mad/Armed Police Batrider (USA) (Fri Feb 13 1998).mad, mad/Armed Police Batrider Special Ver. (USA) (Fri Feb 13 1998).mad
+bbakraid: mad/Battle Bakraid - Unlimited Version (USA) (Tue Jun 8 1999).mad, mad/Battle Bakraid - Unlimited Version Special Ver. (USA) (Tue Jun 8 1999).mad
+blktiger: mad/_alternatives/_Black Tiger/_NotWorking/Black Tiger (Modular System).mad, mad/Black Tiger.mad
+centiped3: mad/Centipede (Rev 3).mad, mad/_alternatives/_Centipede/Centipede (revision 3).mad
+ckongdks: mad/Donkey Kong (Spanish Crazy Kong bootleg).mad, mad/_alternatives/_Donkey Kong/Donkey Kong (Spanish, Crazy Kong) [bl].mad
+ckongo: mad/_alternatives/_Crazy Kong/Crazy Kong (Orca Bootleg) [bl].mad, mad/Crazy Kong (Orca bootleg).mad
+csclubjy: mad/_alternatives/_Capcom Sports Club/Capcom Sports Club (Japan 970722, Rental Version).mad, mad/_alternatives/_Capcom Sports Club/Capcom Sports Club (Japan 970722, yellow case).mad
+darkplnt: mad/Dark Planet (no bkg).mad, mad/Dark Planet.mad
+feversos: mad/_alternatives/_Dangun Feveron/Fever SOS.mad, mad/Fever SOS.mad
+galaga3: mad/Galaga 3 (GP3 Rev D).mad, mad/_alternatives/_Gaplus/Galaga 3 (GP3 rev. D).mad
+gorf: mad/Gorf (Program 1).mad, mad/Gorf (Speech).mad, mad/Gorf.mad
+gunsmoke: mad/Gun Smoke.mad, mad/Gun.Smoke (World, 1985-11-15).mad
+guwanges: mad/_alternatives/_Guwange/Guwange (Special).mad, mad/Guwange (Special).mad
+invaders: mad/Space Invaders (Samples).mad, mad/Space Invaders.mad
+kickman: mad/_alternatives/_Kick/Kick-Man.mad, mad/Kick-Man.mad
+mmancp2u: mad/_alternatives/_Megaman The Power Battle/Mega Man The Power Battle (CPS2, USA 951006, SAMPLE Version).mad, mad/_alternatives/_Mega Man The Power Battle/Mega Man The Power Battle (CPS2, USA 951006, SAMPLE Version).mad
+mmancp2ur1: mad/_alternatives/_Megaman The Power Battle/Mega Man The Power Battle (CPS2, USA 950926, SAMPLE Version).mad, mad/_alternatives/_Mega Man The Power Battle/Mega Man The Power Battle (CPS2, USA 950926, SAMPLE Version).mad
+mmancp2ur2: mad/_alternatives/_Megaman The Power Battle/Mega Man The Power Battle (CPS2, USA 950925, SAMPLE Version).mad, mad/_alternatives/_Mega Man The Power Battle/Mega Man The Power Battle (CPS2, USA 950925, SAMPLE Version).mad
+mysticm: mad/_alternatives/_Mystic Marathon/Mystic Marathon (prototype).mad, mad/Mystic Marathon.mad
+nwarr: mad/Night Warriors Darkstalkers Revenge (Euro 950316).mad, mad/Night Warriors Darkstalkers' Revenge (Euro 950316).mad
+nwarra: mad/_alternatives/_Night Warriors Darkstalkers' Revenge/Night Warriors Darkstalkers Revenge (Asia 950302).mad, mad/_alternatives/_Night Warriors Darkstalkers' Revenge/Night Warriors Darkstalkers' Revenge (Asia 950302).mad
+nwarrb: mad/_alternatives/_Night Warriors Darkstalkers' Revenge/Night Warriors Darkstalkers Revenge (Brazil 950403).mad, mad/_alternatives/_Night Warriors Darkstalkers' Revenge/Night Warriors Darkstalkers' Revenge (Brazil 950403).mad
+nwarrh: mad/_alternatives/_Night Warriors Darkstalkers' Revenge/Night Warriors Darkstalkers Revenge (Hispanic 950403).mad, mad/_alternatives/_Night Warriors Darkstalkers' Revenge/Night Warriors Darkstalkers' Revenge (Hispanic 950403).mad
+nwarru: mad/_alternatives/_Night Warriors Darkstalkers' Revenge/Night Warriors Darkstalkers Revenge (USA 950406).mad, mad/_alternatives/_Night Warriors Darkstalkers' Revenge/Night Warriors Darkstalkers' Revenge (USA 950406).mad
+pacman: mad/_alternatives/_Pacman/Pac-Man (Midway).mad, mad/Pac-Man (Midway).mad
+pacplus: mad/Pac-Man Plus.mad, mad/_alternatives/_Pacman Plus/Pacman Plus - HBMame.mad
+pleiadce: mad/_alternatives/_Pleiads/Pleiads (Centuri).mad, mad/Pleiads (Centuri).mad
+pleiads: mad/Pleiads (Tehkan).mad, mad/Pleiads.mad
+polyplay2: mad/Poly Play 2.mad, mad/Poly Play 2c.mad
+ringdest: mad/Ring of Destruction Slam Masters II (Euro 940902).mad, mad/Ring of Destruction Slammasters II (Euro 940902).mad
+ringdesta: mad/_alternatives/_Ring of Destruction Slam Masters II/Ring of Destruction Slam Masters II (Asia 940831).mad, mad/_alternatives/_Ring of Destruction Slammasters II/Ring of Destruction Slammasters II (Asia 940831).mad
+ringdestb: mad/_alternatives/_Ring of Destruction Slam Masters II/Ring of Destruction Slam Masters II (Brazil 940902).mad, mad/_alternatives/_Ring of Destruction Slammasters II/Ring of Destruction Slammasters II (Brazil 940902).mad
+ringdesth: mad/_alternatives/_Ring of Destruction Slam Masters II/Ring of Destruction Slam Masters II (Hispanic 940902).mad, mad/_alternatives/_Ring of Destruction Slammasters II/Ring of Destruction Slammasters II (Hispanic 940902).mad
+rmancp2j: mad/_alternatives/_Megaman The Power Battle/Rockman The Power Battle (CPS2, Japan 950922).mad, mad/_alternatives/_Mega Man The Power Battle/Rockman The Power Battle (CPS2, Japan 950922).mad
+rushatck: mad/_alternatives/_Green Beret/Rush'n Attack (US).mad, mad/Rush'n Attack (US).mad
+sfa: mad/Street Fighter Alpha Warriors Dreams (Euro 950727).mad, mad/Street Fighter Alpha Warriors' Dreams (Euro 950727).mad
+smbomb: mad/_alternatives/_Ring of Destruction Slam Masters II/Super Muscle Bomber The International Blowout (Japan 940831).mad, mad/_alternatives/_Ring of Destruction Slammasters II/Super Muscle Bomber The International Blowout (Japan 940831).mad
+smbombr1: mad/_alternatives/_Ring of Destruction Slam Masters II/Super Muscle Bomber The International Blowout (Japan 940808).mad, mad/_alternatives/_Ring of Destruction Slammasters II/Super Muscle Bomber The International Blowout (Japan 940808).mad
+solomonj: mad/_alternatives/_Solomons Key/Solomon no Kagi (Japan).mad, mad/Solomon no Kagi (JP).mad
+ssf2xjr1r: mad/_alternatives/_Super Street Fighter II Turbo/Super Street Fighter II X Grand Master Challenge (Japan 940223 rent version).mad, mad/_alternatives/_Super Street Fighter II Turbo/Super Street Fighter II X Grand Master Challenge (Japan 940223, Rental Version).mad
+starjacks: mad/_alternatives/_Star Jacker/Star Jacker (Alt).mad, mad/Star Jacker (alt).mad
+theend: mad/The End (bkg).mad, mad/The End.mad
+tp84a: mad/_alternatives/_Time Pilot '84/Time Pilot '84 (Set 2).mad, mad/Time Pilot '84 (Set 2).mad
+tp84b: mad/_alternatives/_Time Pilot '84/Time Pilot '84 (Set 3).mad, mad/Time Pilot '84 (Set 3).mad
+vampja: mad/_alternatives/_Darkstalkers The Night Warriors/Vampire The Night Warriors (Japan 940705 alt).mad, mad/_alternatives/_Darkstalkers The Night Warriors/Vampire The Night Warriors (Japan 940705, Alternate).mad
+vhuntj: mad/_alternatives/_Night Warriors Darkstalkers' Revenge/Vampire Hunter Darkstalkers Revenge (Japan 950316).mad, mad/_alternatives/_Night Warriors Darkstalkers' Revenge/Vampire Hunter Darkstalkers' Revenge (Japan 950316).mad
+vhuntjr1: mad/_alternatives/_Night Warriors Darkstalkers' Revenge/Vampire Hunter Darkstalkers Revenge (Japan 950307).mad, mad/_alternatives/_Night Warriors Darkstalkers' Revenge/Vampire Hunter Darkstalkers' Revenge (Japan 950307).mad
+vhuntjr1s: mad/_alternatives/_Night Warriors Darkstalkers' Revenge/Vampire Hunter Darkstalkers Revenge (Japan 950307, Stop Version).mad, mad/_alternatives/_Night Warriors Darkstalkers' Revenge/Vampire Hunter Darkstalkers' Revenge (Japan 950307 stop version).mad
+vhuntjr2: mad/_alternatives/_Night Warriors Darkstalkers' Revenge/Vampire Hunter Darkstalkers Revenge (Japan 950302).mad, mad/_alternatives/_Night Warriors Darkstalkers' Revenge/Vampire Hunter Darkstalkers' Revenge (Japan 950302).mad
+wb33: mad/Wonder Boy III - Monster Lair (set 3, World, System 16B) (FD1094 317-0089).mad, mad/_alternatives/_Wonder Boy III/Wonder Boy III - Monster Lair (set 3, World, System 16B) (FD1094 317-0089).mad
+wow: mad/Wizard of Wor (Speech).mad, mad/Wizard of Wor.mad
+xmcotajr: mad/_alternatives/_X-Men Children of the Atom/X-Men Children of the Atom (Japan 941208 rent version).mad, mad/_alternatives/_X-Men Children of the Atom/X-Men Children of the Atom (Japan 941208, Rental Version).mad
